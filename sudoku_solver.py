@@ -121,10 +121,6 @@ class EntryBoard:
         master.mainloop()
 
 
-# root1 = Tk()
-# entryBoard = EntryBoard(root1)
-# root1.mainloop()
-
 class SolveSudoku:
     def __init__(self):
         global _board
@@ -293,10 +289,6 @@ class DisplayBoard:
         button87 = Button(master, text=_board[8][7], bg='gray75', padx=12, pady=10).grid(row=8, column=7)
         button88 = Button(master, text=_board[8][8], bg='gray75', padx=12, pady=10).grid(row=8, column=8)
 
-
-# root2 = Tk()
-# displayBoard = DisplayBoard(root2)
-# root2.mainloop()
 
 if __name__ == '__main__':
     # To enter the board
