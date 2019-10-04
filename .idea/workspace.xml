@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba156699-1cbf-4d04-a1cc-9ac4505afec0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sudoku_board.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sudoku_solver.py" beforeDir="false" afterPath="$PROJECT_DIR$/sudoku_solver.py" afterDir="false" />
-    </list>
+    <list default="true" id="ba156699-1cbf-4d04-a1cc-9ac4505afec0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +97,7 @@
       <workItem from="1569176758493" duration="602000" />
       <workItem from="1569317950170" duration="844000" />
       <workItem from="1569341426050" duration="10954000" />
-      <workItem from="1570219498384" duration="2578000" />
+      <workItem from="1570219498384" duration="3373000" />
     </task>
     <servers />
   </component>
