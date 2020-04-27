@@ -1,5 +1,3 @@
-import os
-
 from tkinter import *
 from tkinter import ttk, messagebox
 
@@ -318,8 +316,8 @@ class SudokuBoard:
             print(board)
             board = SolveSudoku.get_board(board)
 
-            if board == 0:
-                pass
+            if board == -1:
+                messagebox.showwarning('Warning', 'This board contain ERROR')
             else:
                 self.display_board(board)
 

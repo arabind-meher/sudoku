@@ -4,7 +4,10 @@ class SolveSudoku:
     @staticmethod
     def get_board(board):
         SolveSudoku.solve_sudoku(board)
-        return board
+        if 0 in board:
+            return -1
+        else:
+            return board
 
     # Function to solve the sudoku board
     @staticmethod
